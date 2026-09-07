@@ -2,7 +2,7 @@
 
 A deep learning-based NLP project that classifies IMDb movie reviews as positive or negative using a Bidirectional LSTM neural network, benchmarked against a classical ML baseline.
 
-🔗 **Live demo:** [add your Streamlit Community Cloud URL here]
+🔗 **Live demo:** https://sentimentanalysis-afpuezedy5mq4pkvmofenx.streamlit.app/
 
 ## Project Overview
 
